@@ -2,6 +2,9 @@
 
 **Mark Edges** is a simple but powerful addon for Blender 3.6+ that allows you to quickly mark or clear **Seam** and **Sharp** edges based on your current selection.
 
+[img:screenshort/mark_edges_addon.png]
+
+
 ## Features
 
 - **Smart selection handling**:
