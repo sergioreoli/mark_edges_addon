@@ -4,6 +4,7 @@
 
 [img:screenshort/mark_edges_addon.png]
 
+Addon ![Logo do meu projeto](screenshort/mark_edges_addon.png)
 
 ## Features
 
